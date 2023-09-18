@@ -1,2 +1,2 @@
-# Future_Fundation_System
-The operating system of the Future Fundation build in python pure and simple. 
+# Py_Operational_System
+Py_Operational_System is a operational system´s emulator fully made in python. 

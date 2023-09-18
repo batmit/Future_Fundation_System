@@ -1,0 +1,4 @@
+pip install python-tk, os, emoji, PyQt5, requests, bs4, pygame
+-------------------------------------------------------------------------
+se tiver problema com tkinter.messagebox e tkinter.filedialog use:
+pip install tkinter.messagebox, tkinter.filedialog
